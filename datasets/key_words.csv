@@ -1,0 +1,1508 @@
+id,palavra_chave
+1,Canvas
+1,Pipelines
+1,SharePoint
+2,Python
+3,Marketing
+3,Microsoft Office
+4,Data Science
+4,Marketing
+4,Python
+4,Science
+5,Big Data
+5,Enablement
+5,Marketing
+5,Saber
+5,Sales
+5,Sales Enablement
+5,Software
+7,Business
+7,Global Operations
+7,Process Redesign
+7,Research
+7,Testing
+7,Test Cases
+7,Test Execution
+7,Triage
+9,Judicial
+9,LiDAR
+9,Valuation
+10,Access
+10,PowerPoint
+10,Python
+10,Tempo
+11,Access
+11,Business
+11,Employee Engagement
+11,Payments
+11,Purchasing
+11,Stock Exchange
+12,Marketing
+12,Python
+12,Suite
+12,Tempo
+14,Sellers
+16,Marketing
+16,Workshops
+17,Alexa
+17,Writing
+18,Analytics
+18,Body Shop
+18,Growth Hacking
+18,Hacking
+18,LiDAR
+18,Tableau
+19,Business
+20,Marketing
+22,Business
+22,Business Intelligence
+22,Python
+23,E-commerce
+24,Software
+25,Big Data
+25,Software
+26,Business
+26,Business Intelligence
+26,Python
+27,Coca-Cola
+27,Marketing
+28,Business
+28,Happy Hour
+28,Marketing
+28,Social Listening
+29,Business
+30,Marketing
+30,Saber
+31,Analytics
+31,Landing Pages
+31,Marketing
+31,Templates
+31,Web Analytics
+32,Analytics
+32,Python
+32,Tempo
+33,Python
+34,Athena
+34,Big Data
+35,Python
+37,Academia
+37,MySQL
+41,Software
+41,Stata
+42,Analysis
+42,Analytics
+42,Integration
+42,Pipelines
+43,Badges
+43,Consulting
+43,Saber
+43,Tempo
+43,Threat Intelligence
+44,Badges
+44,Consulting
+44,Saber
+44,Tempo
+44,Threat Intelligence
+45,Analytics
+45,Google Analytics
+45,Marketing
+45,SAP CRM
+46,Business
+47,Business
+47,LiDAR
+49,Analytics
+49,Dynamics
+49,Lifestyle
+49,Microsoft Dynamics
+50,Marketing
+50,Tableau
+52,Marketing
+52,Trade Marketing
+53,Management
+53,Tableau
+55,Analytics
+56,Supply Chain
+57,Email
+57,Landing Pages
+57,Marketing
+57,Oracle
+57,Software
+58,Email
+58,Landing Pages
+58,Marketing
+58,Software
+59,Analytics
+59,Body Shop
+59,E-commerce
+59,LiDAR
+59,Tableau
+60,E-commerce
+60,Radar
+61,Saber
+61,Stickers
+63,Oracle
+63,Servers
+64,Inbound Marketing
+64,Marketing
+65,Business
+66,Analytics
+66,E-commerce
+66,Mindfulness
+66,Social Listening
+67,Marketing
+69,E-commerce
+69,Email
+69,Marketing
+70,Analytics
+70,Marketing
+70,Saber
+70,Tableau
+71,Analytics
+71,Copywriting
+71,Email
+71,Email Marketing
+71,Inbound Marketing
+71,Marketing
+71,Software
+71,Storytelling
+72,Marketing
+73,Marketing
+74,Branding
+74,Marketing
+74,Saber
+77,PowerPoint
+77,Python
+78,Analytics
+78,PowerPoint
+78,Python
+79,Analytics
+79,E-commerce
+79,Google Analytics
+81,Analytics
+81,LiDAR
+82,Tempo
+83,Marketing
+83,Templates
+85,Due Diligence
+85,Supply Chain
+85,Tempo
+86,Body Shop
+86,Supply Chain
+86,Tableau
+87,Asset Management
+87,Financial Services
+87,History
+87,Insurance
+87,Latin
+87,Life Insurance
+87,Management
+87,Real Estate
+87,Saber
+87,Symbol
+88,Kanban
+89,Tableau
+90,E-commerce
+90,Flash
+90,Judicial
+90,Saber
+90,Talent Acquisition
+90,Tempo
+91,Big Data
+91,Marketing
+92,PowerPoint
+95,Private Equity
+96,COBOL
+96,Kanban
+96,Linux
+97,Knowledge Base
+97,Linux
+97,Troubleshooting
+97,Windows
+99,Saber
+99,Tempo
+100,Front-end
+100,JavaScript
+102,Maximo
+103,Integration
+103,Maximo
+104,Dashboard
+105,Data Governance
+105,Governance
+106,Analysis
+106,Analytics
+106,Business
+106,Communication
+106,Data Science
+106,Data Wrangling
+106,Machine Learning
+106,Science
+106,Segmentation
+108,Pilates
+108,Saber
+108,Tableau
+109,Silicones
+112,Analysis
+112,Business
+112,Communication
+112,Databases
+112,Equal Opportunities
+112,Herbal
+112,Leadership
+112,Management
+112,Marketing
+112,Running
+112,Sales
+112,Software
+112,Software Development
+112,Transportation
+112,Wellness
+113,Business
+113,Flash
+113,Pipelines
+113,Python
+114,Analytics
+115,LiDAR
+115,Software
+115,Swift
+116,Financial Services
+117,Software
+117,Systems Thinking
+117,TOGAF
+122,Analytics
+122,Availability
+122,Business
+122,Localization
+122,Machine Learning
+122,Networking
+122,Portuguese
+122,Security
+123,Analytics
+123,MICROS
+123,NoSQL
+123,Selenium
+123,Software
+123,Spring Framework
+123,Web Analytics
+124,Analytics
+124,Architecture
+124,Banking
+124,Communication
+124,Computer Science
+124,Credit
+124,Design Patterns
+124,Distributed Systems
+124,Engineering
+124,Features
+124,Financial Services
+124,Foundations
+124,Health Insurance
+124,Hiring
+124,Insurance
+124,Latin
+124,Latin America
+124,Libraries
+124,Ownership
+124,Programming
+124,Reliability
+124,Science
+124,Software
+124,Sponsorship
+124,Video
+124,Architecture
+128,Analytics
+128,Big Data
+128,Big Data Analytics
+129,Big Data
+129,Python
+130,Capital
+131,Python
+133,Analytics
+133,Business
+133,Python
+133,Tempo
+134,Analysis
+134,Analytics
+134,Business
+134,Communication
+134,English
+134,Maintenance
+134,Management
+134,Metrics
+134,Oracle
+134,Python
+134,Video
+135,Tableau
+137,Analytics
+137,LiDAR
+137,Marketing
+137,Saber
+138,Analytics
+138,Business
+138,Business Intelligence
+138,Data Modeling
+138,Modeling
+139,Analytics
+139,Architecture
+139,Automation
+139,Business
+139,Business Intelligence
+139,Coaching
+139,Constructive Feedback
+139,Dashboard
+139,Marketing
+139,Naming Conventions
+139,Optimization
+139,Payroll
+139,Process Optimization
+139,Rolling
+139,Storage
+139,Strategy
+139,Tableau
+139,Testing
+139,Validation
+139,Web Analytics
+139,Writing
+139,Architecture
+140,Business
+140,COBRA
+140,Mentoring
+141,Analysis
+141,Analytical Skills
+141,Anomaly Detection
+141,Business
+141,Business Requirements
+141,Communication
+141,Data Analysis
+141,Data Management
+141,Data Science
+141,Functional Requirements
+141,Insurance
+141,Leadership
+141,Management
+141,Negotiation
+141,Reference Data
+141,Science
+141,Validation
+141,Writing
+142,Capital
+142,MongoDB
+142,Software
+143,Algebra
+143,Big Data
+143,Hadoop
+146,Machine Learning
+146,Python
+147,Analysis
+147,Python
+148,Python
+149,Analytics
+149,Body Shop
+149,Tempo
+150,Features
+150,Machine Learning
+152,Lifestyle
+152,Machine Learning
+152,Pipelines
+152,Python
+153,Data Science
+153,Machine Learning
+153,Science
+154,Data Science
+154,Machine Learning
+154,Science
+156,Analytics
+156,Engineering
+156,Features
+156,Machine Learning
+156,Python
+156,Tempo
+157,Data Science
+157,Machine Learning
+157,Science
+158,Analytics
+158,Engineering
+158,Features
+158,Machine Learning
+158,Python
+158,Tempo
+159,Marketing
+159,Python
+160,Analytics
+160,Python
+161,Machine Learning
+161,Python
+161,Tempo
+162,Machine Learning
+162,Python
+163,Big Data
+163,Cloud Computing
+163,Open Source
+163,Python
+163,Saber
+164,Big Data
+164,Data Science
+164,Machine Learning
+164,Neural Networks
+164,Programming
+164,Python
+164,Science
+164,Tempo
+165,Data Science
+165,Saber
+165,Science
+165,Storytelling
+167,LiDAR
+167,Python
+168,Data Science
+168,Machine Learning
+168,Python
+168,Science
+169,Business
+169,Business Intelligence
+169,Machine Learning
+170,Subversion
+171,Apache
+171,Customer Experience
+171,E-commerce
+171,Python
+171,White Label
+172,Machine Learning
+172,Python
+173,Badges
+173,Matlab
+173,Saber
+173,Tempo
+174,Badges
+174,Matlab
+174,Saber
+174,Tempo
+175,Badges
+175,Saber
+175,Tempo
+176,Badges
+176,Matlab
+176,Saber
+176,Tempo
+179,LiDAR
+179,Machine Learning
+179,Tempo
+180,Machine Learning
+180,Natural Language Processing
+180,Saber
+181,Analytics
+182,Ad-hoc
+182,Analysis
+182,Analytics
+182,Business
+182,Campaigns
+182,Communication
+182,Conversion Optimization
+182,Databases
+182,Data Analysis
+182,Data Visualization
+182,Digital Media
+182,E-commerce
+182,English
+182,Integrated Marketing
+182,Latin
+182,Latin America
+182,Management
+182,Marketing
+182,Numeracy
+182,Optimization
+182,Planning
+182,Policy
+182,Portuguese
+182,Project Management
+182,Social Media
+182,Web Analytics
+183,Analytics
+183,Big Data
+183,Marketing
+185,Marketing
+185,Oracle
+186,ISO 27001
+187,Access
+187,Access Control
+187,Affirmative Action
+187,Application Security
+187,Business
+187,Communication
+187,Computer Science
+187,Consulting
+187,Equal Employment Opportunity
+187,Escalation
+187,Full Cycle
+187,Governance
+187,Infrastructure
+187,Leadership
+187,Management
+187,Options
+187,Planning
+187,Pre-sales
+187,Professional Services
+187,Programming
+187,Recruiting
+187,SAP Basis
+187,SAP ERP
+187,SAP Netweaver
+187,Science
+187,Screening
+187,Security
+187,Software
+188,Balance
+188,Immunology
+188,Marketing
+188,Pipelines
+188,Treatment
+189,Saber
+190,Capital
+190,E-commerce
+190,Saber
+191,Analytics
+191,Asset Management
+191,Financial Services
+191,History
+191,Insurance
+191,Latin
+191,Life Insurance
+191,Management
+191,Real Estate
+191,Saber
+191,Symbol
+191,Tableau
+192,Briefing
+192,Marketing
+194,Saber
+195,Branding
+195,Marketing
+196,HubSpot
+196,Marketing
+197,Saber
+197,Tableau
+199,Software
+199,Tempo
+199,Windows
+200,Business
+200,Business Intelligence
+200,Science
+201,Analytics
+201,Body Shop
+201,Data Visualization
+201,LATAM
+201,Marketing
+201,Pilates
+201,Storytelling
+202,Business
+202,Pricing
+203,Analytics
+203,Software
+203,Storytelling
+205,Coaching
+205,Microsoft Office
+205,Tempo
+207,Analytics
+207,Web Analytics
+208,Access
+208,Analytics
+208,Architecture
+208,Business
+208,Cost Savings
+208,Customer Experience
+208,Email
+208,Enterprise Software
+208,Folders
+208,Hiring
+208,Professional Services
+208,Recruiting
+208,Root Cause
+208,Savings
+208,Software
+208,Architecture
+209,Data Science
+209,Science
+211,Analysis
+211,Analytics
+211,Business
+211,Data Analysis
+211,Data Mining
+211,Equal Employment Opportunity
+211,Financial Services
+211,Fraud
+211,Loans
+211,Machine Learning
+211,Marketing
+211,Mining
+211,Modeling
+211,Policy
+211,Predictive Modeling
+211,Programming
+211,Underwriting
+212,Analysis
+212,Analytics
+212,Business
+212,Communication
+212,Data Analysis
+212,Modeling
+212,Oversight
+212,Scala
+212,Statistical Modeling
+213,Algebra
+213,Hadoop
+214,Analytics
+214,Computer Vision
+214,Data Science
+214,Python
+214,Reinforcement
+214,Science
+214,Scrum
+215,Analytics
+215,Computer Vision
+215,Data Science
+215,Python
+215,Reinforcement
+215,Science
+215,Scrum
+216,Analytics
+216,Big Data
+216,Business
+216,Business Requirements
+216,Econometrics
+216,Machine Learning
+216,Modeling
+216,Programming
+217,Analytics
+217,Big Data
+217,Business
+217,Business Requirements
+217,Econometrics
+217,Machine Learning
+217,Modeling
+217,Programming
+218,Kanban
+219,Linux
+219,MongoDB
+219,Workshops
+221,Analytics
+221,Content Management
+221,Google Analytics
+221,Laravel
+221,Management
+222,Badges
+222,Engineering
+222,JavaScript
+222,Mockups
+222,Saber
+222,Software
+222,Software Engineering
+222,Tempo
+223,Badges
+223,Engineering
+223,JavaScript
+223,Mockups
+223,Saber
+223,Software
+223,Software Engineering
+223,Tempo
+224,Tomcat
+225,Analytics
+225,Continuous Delivery
+225,Email
+225,Features
+225,Integration
+225,Ruby on Rails
+225,Saber
+225,Storage
+226,Apache
+226,Front-end
+226,Node.js
+226,Tempo
+227,Features
+227,LiDAR
+227,Responsive Web Design
+227,Software
+227,Testing
+227,Web Design
+228,Front-end
+228,HTML5
+228,LiDAR
+228,Node.js
+229,Cloud Computing
+229,Node.js
+229,RSpec
+230,Front-end
+230,HTML5
+230,Node.js
+231,NoSQL
+232,Apache
+232,JavaScript
+232,Jenkins
+232,MySQL
+232,Tempo
+233,Design Patterns
+233,Front-end
+233,HTML5
+233,JavaScript
+234,Design Patterns
+234,Front-end
+234,HTML5
+234,JavaScript
+235,Front-end
+235,JavaScript
+235,Planning
+235,Software
+236,Saber
+237,Business
+237,Customer Experience
+239,Kanban
+239,MICROS
+240,Architecture
+240,Automation
+240,Back Office
+240,Balance
+240,Builders
+240,Business
+240,Cloud-based
+240,Communication
+240,Consulting
+240,Energy
+240,Infrastructure
+240,Integration
+240,Knowledge Sharing
+240,Leadership
+240,Load Balancing
+240,Military
+240,Parts
+240,Portuguese
+240,Professional Services
+240,Programming
+240,Security
+240,Software
+240,Software Development
+240,Architecture
+241,Analysis
+241,Business
+241,Communication
+241,Marketing
+241,Metrics
+241,Optimization
+241,Software
+241,Strategy
+241,Tactics
+241,Virtual Teams
+242,Administration
+242,Analysis
+242,Analytics
+242,Benchmarking
+242,Bespoke
+242,Business
+242,Business Intelligence
+242,Cloud-based
+242,Communication
+242,Consulting
+242,Customer Experience
+242,Data Mining
+242,Data Science
+242,Demos
+242,English
+242,Human Rights
+242,Incentives
+242,Management
+242,Management Consulting
+242,Market Research
+242,Mining
+242,Parties
+242,Partnerships
+242,Pricing
+242,Problem Solving
+242,Product Development
+242,Research
+242,Science
+242,Yield
+243,Branding
+243,Marketing
+243,Saber
+244,Software
+245,Python
+249,Data Science
+249,Pipelines
+249,Science
+250,Badges
+250,Debate
+250,Scrum
+251,Badges
+251,Debate
+251,Scrum
+252,Apache
+252,Pipelines
+253,Clojure
+253,House
+253,Lifestyle
+253,Pipelines
+253,Shoes
+253,Tempo
+254,Tempo
+255,Big Data
+255,Pipelines
+256,Analytics
+257,Scrum
+258,Software
+259,Analytics
+260,NoSQL
+260,Pipelines
+260,Python
+260,Scala
+261,Credit
+262,E-commerce
+262,Engineering
+262,Judicial
+262,Marketing
+262,Onboarding
+262,Product Marketing
+262,Saber
+262,Sales
+262,Talent Acquisition
+262,Tempo
+263,Analytics
+263,Asset Management
+263,Financial Services
+263,History
+263,Insurance
+263,Latin
+263,LiDAR
+263,Life Insurance
+263,Management
+263,Real Estate
+263,Saber
+263,Storytelling
+263,Symbol
+264,Business
+264,LiDAR
+265,Management
+265,Middle Office
+265,Offshore
+265,Rebates
+265,Wealth
+265,Wealth Management
+266,Banking
+266,Design Thinking
+267,Opera
+267,Savings
+267,Sourcing
+267,Strategic Sourcing
+268,Haver
+268,Onboarding
+268,Strategy
+268,Tableau
+269,Lifestyle
+269,Marketing
+269,Python
+270,Capital
+270,E-commerce
+270,Lifestyle
+270,Opera
+270,Python
+270,Tempo
+271,Analytics
+271,Google Analytics
+272,Business
+272,Tableau
+272,Tempo
+273,Python
+275,Python
+277,Education
+282,Analytics
+282,Marketing
+285,ANSYS
+287,Linux
+287,Python
+288,Linux
+288,Python
+289,Linux
+289,Python
+290,Big Data
+292,Briefing
+292,Marketing
+292,Trade Marketing
+293,Omega
+294,Supply Chain
+296,Analytics
+296,Balance
+296,Communication
+296,Presentations
+296,Schedules
+296,Templates
+297,Design Thinking
+297,Scrum
+298,Marketing
+298,Servers
+299,Analytics
+299,Data Science
+299,Saber
+299,Science
+300,Analytics
+300,LiDAR
+300,Marketing
+301,Private Label
+302,Marketing
+303,Balance
+303,Immunology
+303,Marketing
+303,Oncology
+303,Pipelines
+303,Treatment
+304,Marketing
+305,Dashboard
+305,Teradata
+308,Analytics
+308,Capital
+308,Derivatives
+308,Finance
+308,Fostering
+308,Investment Management
+308,Management
+308,Mathematics
+308,Mindfulness
+308,Python
+308,Recruiting
+308,Securities
+308,Training
+308,Wellness
+309,LATAM
+310,Flash
+310,Marketing
+310,Onboarding
+311,Jeans
+311,Modeling
+311,Python
+311,Saber
+312,Python
+312,Tempo
+313,Access
+313,Analytics
+313,Business
+313,English
+313,Localization
+313,Management
+313,Research
+313,Spanish
+313,Workshops
+313,Writing
+315,Astute
+315,Cloud Computing
+315,Computer Science
+315,Emerging Technologies
+315,Engineering
+315,Infrastructure
+315,Kernel
+315,Linux
+315,Mirroring
+315,Networking
+315,Open Source
+315,Open Source Software
+315,Programming
+315,Python
+315,Reliability
+315,Science
+315,Security
+315,Software
+315,Software Development
+315,Software Engineering
+315,Sound
+315,Technically Astute
+315,Testing
+315,Ubuntu
+315,Virtualization
+316,Analysis
+316,Analytics
+316,Business
+316,Campaigns
+316,Communication
+316,Dynamics
+316,Formulation
+316,Leadership
+316,Marketing
+316,Market Research
+316,Research
+316,Sustainability
+316,Tailoring
+316,Training
+317,Analytics
+317,Artificial Intelligence
+317,Data Science
+317,Front-end
+317,Latin
+317,Latin America
+317,Literacy
+317,Procurement
+317,Python
+317,Relocation
+317,Science
+317,Social Listening
+317,Strategy
+317,Vendors
+317,Artificial Intelligence
+318,Analytics
+318,Business
+318,Pilates
+319,Design Patterns
+319,Saber
+319,Software
+320,Apache
+320,Engineering
+320,Features
+320,Finance
+320,Machine Learning
+320,Software
+321,Python
+321,Software
+322,Access
+322,Balance
+322,Clinical Development
+322,Clinical Research
+322,Clinical Trials
+322,Coaching
+322,Communication
+322,English
+322,Feasibilities
+322,Geography
+322,Healthcare
+322,Immunology
+322,Leadership
+322,Management
+322,Peer-to-peer
+322,Pharmacovigilance
+322,Physicians
+322,Pipelines
+322,Planning
+322,Presentation Skills
+322,Research
+322,Science
+322,Strategy
+322,Therapeutic Area
+322,Training
+322,Treatment
+322,Trials
+322,Unbiased
+322,Therapeutic Area
+323,Kodak
+323,Konica
+323,Ricoh
+326,Analytics
+326,BizAgi
+327,Academia
+327,Judicial
+327,LiDAR
+328,Analytics
+328,Data Science
+328,Science
+328,Software
+329,Active Directory
+329,E-commerce
+330,Academia
+330,Management
+330,Office 365
+330,Project Management
+332,Python
+333,Software
+334,Architecture
+334,Software
+334,Architecture
+335,Machine Learning
+335,Python
+335,Tempo
+336,Analytics
+336,Features
+339,Marketing
+339,Tempo
+339,Trade Marketing
+340,Engineering
+340,Marketing
+340,Scrum
+340,Software
+341,Databases
+341,Flash
+342,Capital
+342,Valuation
+343,Analytics
+343,Know-how
+343,Scrum
+344,Capital
+344,Coffee
+344,Flavors
+344,JavaScript
+344,Node.js
+344,Software
+345,Front-end
+345,Hardware
+345,MySQL
+345,Saber
+345,Testing
+346,E-commerce
+346,JavaScript
+346,Software
+346,Tempo
+347,Android
+347,Swift
+348,Ruby on Rails
+348,Software
+348,Tempo
+348,Workshops
+350,ElasticSearch
+350,Hadoop
+350,Pipelines
+350,Scala
+350,Scrum
+350,Software
+351,Big Data
+351,Machine Learning
+351,Open Source
+351,Saber
+351,Software
+352,Big Data
+352,Machine Learning
+352,Open Source
+352,Saber
+352,Software
+353,Software
+354,Big Data
+354,Data Science
+354,Machine Learning
+354,Pipelines
+354,Python
+354,Science
+355,Software
+355,Ticketing
+355,Variant Configuration
+356,Agility
+356,ANVISA
+356,Video
+357,Administration
+357,Analysis
+357,Analytical Skills
+357,Apparel
+357,Business
+357,Communication
+357,Emotional Intelligence
+357,English
+357,Factory
+357,History
+357,Logistics
+357,Management
+357,Manufacturing
+357,Materials
+357,Networking
+357,Packing
+357,Planning
+357,Readiness
+357,Supply Chain
+357,Supply Chain Management
+358,Product Design
+359,Product Design
+360,Saber
+361,Analytics
+361,Business
+361,Software
+361,User Experience
+362,Tempo
+363,Marketing
+364,Advertising
+364,Machine Learning
+364,Open Source
+364,Saber
+364,Software
+364,Tempo
+365,Kanban
+366,Automation
+366,Tableau
+366,Visio
+366,Windows
+367,Software
+368,Affirmative Action
+368,Agile Environment
+368,Business
+368,Business Requirements
+368,Cloud-based
+368,Continuous Delivery
+368,Distributed Systems
+368,Engineering
+368,Equal Employment Opportunity
+368,Features
+368,Infrastructure
+368,Leadership
+368,Management
+368,Merchandising
+368,Options
+368,Planning
+368,Policy
+368,Programming
+368,Program Management
+368,Recruiting
+368,Scrum
+368,Software
+368,Software Development
+368,Usability
+369,Affirmative Action
+369,Agile Environment
+369,Architecture
+369,Business
+369,Business Requirements
+369,Continuous Delivery
+369,Engineering
+369,Equal Employment Opportunity
+369,Features
+369,Infrastructure
+369,Leadership
+369,Management
+369,Mentoring
+369,Merchandising
+369,NoSQL
+369,Options
+369,Planning
+369,Policy
+369,Programming
+369,Program Management
+369,Recruiting
+369,Security
+369,Software
+369,Software Engineering
+369,Technical Leadership
+369,Architecture
+370,Affirmative Action
+370,Agile Environment
+370,Business
+370,Business Requirements
+370,Career Development
+370,Coaching
+370,Continuous Delivery
+370,Distributed Systems
+370,Engineering
+370,Equal Employment Opportunity
+370,Interpersonal Skills
+370,Leadership
+370,Management
+370,Merchandising
+370,NoSQL
+370,Options
+370,Ownership
+370,Planning
+370,Policy
+370,Programming
+370,Recruiting
+370,Software
+370,Software Engineering
+370,Work Effectively
+371,Affirmative Action
+371,Business
+371,Databases
+371,Eligibility
+371,Equal Employment Opportunity
+371,Expense Management
+371,Features
+371,Infrastructure
+371,JavaScript
+371,Leadership
+371,Management
+371,New Product Ideas
+371,Options
+371,Planning
+371,Recruiting
+371,Software
+372,Agility
+372,Algorithms
+372,Analytics
+372,English
+372,Management
+372,Ownership
+372,Risk Management
+372,Software
+372,Software Development
+373,Business
+373,Communication
+373,Ingredients
+373,Large Projects
+373,Make It Happen
+373,Management
+373,Program Management
+373,Readiness
+373,Relocation
+373,Stakeholder Management
+373,Steering
+375,Evidence
+375,Management
+375,Open Office
+375,Technical Direction
+375,Testing
+375,Working With Clients
+376,Analytics
+376,Business
+376,Continuous Delivery
+376,Energy
+376,English
+376,Equal Opportunities
+376,Fostering
+376,High Performance Teams
+376,NoSQL
+376,Object Oriented Design
+376,Planning
+376,Programming
+376,Scrum
+376,Software
+376,Software Development
+376,Sourcing
+376,Testing
+376,Unit Testing
+376,Web Applications
+376,Writing
+377,Architecture
+377,Communication
+377,Computer Science
+377,Engineering
+377,English
+377,Equal Employment Opportunity
+377,Experimentation
+377,Features
+377,Front-end
+377,Greenfield Projects
+377,Infrastructure
+377,Localization
+377,Military
+377,NoSQL
+377,Online Travel
+377,Policy
+377,Science
+377,Scrum
+377,Testing
+377,Uptime
+377,Vacancies
+377,Web Applications
+377,Architecture
+378,Android
+378,Architecture
+378,Communication
+378,Computer Science
+378,Engineering
+378,English
+378,Equal Employment Opportunity
+378,Experimentation
+378,Features
+378,Front-end
+378,Greenfield Projects
+378,Infrastructure
+378,Localization
+378,Military
+378,Online Travel
+378,Policy
+378,Programming
+378,Science
+378,Scrum
+378,Software
+378,Swift
+378,Testing
+378,Uptime
+378,Vacancies
+378,Architecture
+379,Edtech
+379,LiDAR
+379,Software
+380,Administration
+380,Cloud-based
+380,Codes
+380,Communication
+380,Integration
+380,JavaScript
+380,LATAM
+380,Life Sciences
+380,Like Challenges
+380,Python
+380,Software
+380,Veeva
+380,Web Development
+381,Business
+381,Communication
+381,Documentation
+381,Edtech
+381,Engineering
+381,English
+381,Functional Specifications
+381,JavaScript
+381,Kanban
+381,Logging
+381,Node.js
+381,Soft Skills
+381,Training
+382,Big Data
+382,Cluster
+382,Linux
+382,Soft Skills
+383,Marketing
+384,Pipelines
+385,Marketing
+385,Saber
+386,Business
+388,Analysis
+388,Availability
+388,Citizenship
+388,Communication
+388,Energy
+388,English
+388,High Availability
+388,Maintenance
+388,Scripting
+388,Windows
+388,Windows Server
+389,Architecture
+389,Coaching
+389,Commissioning
+389,Construction
+389,Documentation
+389,English
+389,Field Service
+389,LATAM
+389,Leadership
+389,Lighting
+389,Management
+389,Sustainability
+389,System Testing
+389,Testing
+389,Turnover
+389,Architecture
+390,Marketing
+392,Analytics
+392,Communication
+392,Crypto
+392,Cyber
+392,Engineering
+392,Music
+392,Security
+392,Software
+392,Taste
+392,Waiting
+393,Analytics
+393,Google Analytics
+394,Analytics
+394,JavaScript
+394,Saber
+394,Workshops
+396,Marketing
+397,Analytics
+397,Google Analytics
+397,Scrum
+397,Wireframes
+398,Analytics
+398,Google Analytics
+398,Scrum
+398,Soft Skills
+398,Wireframes
+399,Marketing
+399,Photoshop
+400,Management
+401,Python
+402,Communication
+402,English
+402,Product Development
+402,Rendering
+402,Security
+402,Testing
+402,Troubleshooting
+402,Web Applications
