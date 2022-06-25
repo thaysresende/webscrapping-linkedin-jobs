@@ -1,13 +1,13 @@
-# webscrapping-linkedin-jobs
+### webscrapping-linkedin-jobs
 
-# Tema
-...
+### Tema
+(em desenvolvimento)
 
-# Objetivo
-...
+### Objetivo
+(em desenvolvimento)
 
-# Ferramentas
-...
+### Ferramentas
+(em desenvolvimento)
 
 Os datasets também foram publicados na plataforma [Kaggle](https://www.kaggle.com/datasets/thaysresende/vagas-na-rea-de-dados-extrados-do-linkedin)
 
